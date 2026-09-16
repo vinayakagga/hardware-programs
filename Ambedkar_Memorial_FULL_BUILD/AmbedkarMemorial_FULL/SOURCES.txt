@@ -1,0 +1,34 @@
+SOURCES USED FOR CONTENT / IMAGE PLAN
+
+Official Dr. Ambedkar Foundation — Dr. Ambedkar National Memorial:
+https://ambedkarfoundation.nic.in/danm.html
+
+Dr. Ambedkar Foundation annual report / memorial description:
+https://ambedkarfoundation.nic.in/assets/resources/Final%202023-24.pdf
+
+Dr. Ambedkar Foundation annual report / museum exhibits:
+https://ambedkarfoundation.nic.in/assets/resources/annual_report_2020-21.pdf
+
+Ministry of Culture — Directory of Indian Museums:
+https://www.culture.gov.in/files/inline-documents/Directory_of_Indian_Museums_080620231.pdf
+
+Delhi Tourism — Dr. Ambedkar National Memorial:
+https://delhitourism.gov.in/dt/explore_the_city/ambedkar_national_memorial.html
+
+Historical image sources selected for future expansion:
+Round Table Conference (1931):
+https://commons.wikimedia.org/wiki/File:Ambedkar_at_the_Round_Table_Conference.jpg
+CC0 / public domain as listed on the file page.
+
+Drafting Committee (29 Aug 1947):
+https://commons.wikimedia.org/wiki/File:Dr._Babasaheb_Ambedkar_Chairman,_Drafting_Committee_of_the_Indian_Constitution_with_other_members_on_Aug._29,_1947.jpg
+CC0 / public domain as listed on the file page.
+
+Constitution presentation (25 Nov 1949):
+https://commons.wikimedia.org/wiki/File:Dr._Babasaheb_Ambedkar,_chairman_of_the_Drafting_Committee,_presenting_the_final_draft_of_the_Indian_Constitution_to_Dr._Rajendra_Prasad_on_25_November,_1949.jpg
+CC0 / public domain as listed on the file page.
+
+NOTE:
+The current firmware uses the locally available project images so it can be
+run immediately. The historical web-source list is retained for the next
+asset refresh.
